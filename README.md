@@ -1,5 +1,7 @@
 # Steam Depot Version Downloader
 
+[日本語版 README](README.ja.md)
+
 A simple SteamCMD-based tool for downloading a specific Steam
 Depot Manifest and building the selected game version separately
 from the existing Steam installation.
