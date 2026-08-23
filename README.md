@@ -65,3 +65,15 @@ set "DEPOT2_MANIFEST=8042843504692938467"
 
 set "DEPOT3_ID=489833"
 set "DEPOT3_MANIFEST=1914580699073641964"
+
+```
+## License
+
+This project is licensed under the MIT License.
+See [LICENSE](LICENSE) for details.
+
+This license applies only to the source code and documentation
+included in this repository.
+
+It does not grant any rights to redistribute copyrighted game
+content or other third-party content downloaded through this tool.
