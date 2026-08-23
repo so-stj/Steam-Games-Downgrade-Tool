@@ -19,7 +19,7 @@ SteamCMD is downloaded automatically if it is not found.
 
 ## Quick Start
 
-1. Open `SteamDepotVersionDownloader.bat`.
+1. Open `DownGrader.bat`.
 2. Edit the `USER CONFIGURATION` section.
 3. Set the AppID.
 4. Set the required Depot IDs.
