@@ -12,14 +12,10 @@ SteamCMDを使用して、指定したSteam DepotのManifestを取得し、
 
 ## Features
 
-- SteamCMDの自動検出
-- SteamCMDの自動ダウンロード
 - 複数Depot対応
-- 固定Manifestによるダウンロード
 - 独立した作業ディレクトリ
 - 独立した出力ディレクトリ
 - 日本語 / 英語UI
-- 基本的なファイル検証
 
 ## Requirements
 
