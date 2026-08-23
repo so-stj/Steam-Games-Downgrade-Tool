@@ -12,7 +12,6 @@ The existing Steam installation is not modified.
 
 - SteamCMD automatic detection
 - Automatic SteamCMD download
-- Steam Guard support
 - Multiple Depot support
 - Fixed Manifest downloads
 - Separate working directory
