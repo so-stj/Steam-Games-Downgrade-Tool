@@ -14,7 +14,6 @@ SteamCMDを使用して、指定したSteam DepotのManifestを取得し、
 
 - SteamCMDの自動検出
 - SteamCMDの自動ダウンロード
-- Steam Guard対応
 - 複数Depot対応
 - 固定Manifestによるダウンロード
 - 独立した作業ディレクトリ
