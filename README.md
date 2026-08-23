@@ -8,13 +8,6 @@ from the existing Steam installation.
 
 The existing Steam installation is not modified.
 
-## Features
-
-- Multiple Depot support
-- Separate working directory
-- Separate output directory
-- English / Japanese interface
-
 ## Requirements
 
 - Windows 10 / 11
