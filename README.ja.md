@@ -10,13 +10,6 @@ SteamCMDを使用して、指定したSteam DepotのManifestを取得し、
 
 既存のSteamインストールは変更しません。
 
-## Features
-
-- 複数Depot対応
-- 独立した作業ディレクトリ
-- 独立した出力ディレクトリ
-- 日本語 / 英語UI
-
 ## Requirements
 
 - Windows 10 / 11
