@@ -10,14 +10,10 @@ The existing Steam installation is not modified.
 
 ## Features
 
-- SteamCMD automatic detection
-- Automatic SteamCMD download
 - Multiple Depot support
-- Fixed Manifest downloads
 - Separate working directory
 - Separate output directory
 - English / Japanese interface
-- Basic output verification
 
 ## Requirements
 
