@@ -21,7 +21,7 @@ SteamCMDが見つからない場合は自動的にダウンロードします。
 
 ## Quick Start
 
-1. `SteamDepotVersionDownloader.bat` を開きます。
+1. `DownGrader.bat` を開きます。
 2. `USER CONFIGURATION` セクションを編集します。
 3. AppIDを設定します。
 4. 必要なDepot IDを設定します。
